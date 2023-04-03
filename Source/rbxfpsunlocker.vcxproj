@@ -156,7 +156,6 @@
     <ClCompile Include="settings.cpp" />
     <ClCompile Include="sigscan.cpp" />
     <ClCompile Include="ui.cpp" />
-    <ClCompile Include="version.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="procutil.h" />
